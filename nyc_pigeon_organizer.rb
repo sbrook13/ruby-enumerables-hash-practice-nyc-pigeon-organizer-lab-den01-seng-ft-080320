@@ -1,3 +1,5 @@
 def nyc_pigeon_organizer(data)
-  # write your code here!
+  data.invert
+pigeon_list[a]=b
+pigeon_list
 end
